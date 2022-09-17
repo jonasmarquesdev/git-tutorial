@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94d355&height=120&section=header"/>
 
-# Lista de processos do git
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94d355&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!;pegue+o+café+e+bora+para+o+código+:%29)](https://git.io/typing-svg)
 
 <p align="center" >Espero ajudar todos os iniciantes em git com esse pequeno glossário.</p>
 <p align="center" >
-    <iframe src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm">via GIPHY</a></p>
+    <img width="300" src="./assets/giphy.gif" >
 </p>
 
 ## Explicando cada processo dos comandos git para criar um repositorio:
