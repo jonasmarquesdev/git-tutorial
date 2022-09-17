@@ -67,22 +67,22 @@ Commands                          | Description
 
 ## Adicionando arquivos ao um commit já feito:
 
-Commands                                        |
-------------------------------------------------|
+Commands                                        | Description
+------------------------------------------------|---------------------------
 `git add (arquivo que quer adicionar no commit)`|
-`git commit --amend --no-edit`                  |
+`git commit --amend --no-edit`                  | adiciona arquivo no commit
 
 ## Verificando arquivos dentro de uma branch:
 
 Commands                                         | Description
 -------------------------------------------------|---------------------------------------
 `git log`                                        | para ver todos as branch's e seus id's
-`git show --pretty="" --name-only (id da branch)`|
+`git show --pretty="" --name-only (id da branch)`| mostra todos arquivos dentro da branch especificada
 
 ## Removendo arquivo especifico depois de ter adicionado:
 
 Commands                             | Description
 -------------------------------------|----------------------------------
-`git status`                         | Mostra as alterações commitadas
-`git restore --staged meuarquivo.txt`|
-`git status`                         | Mostra que o arquivo foi removido
+`git status`                         | mostra as alterações commitadas
+`git restore --staged meuarquivo.txt`| remove o arquivo especificada
+`git status`                         | mostra que o arquivo foi removido
