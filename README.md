@@ -1,3 +1,4 @@
+~~~Com explicação
 # Lista de processos do git
 
 ## Explicando cada processo dos comandos git para criar um repositorio:
@@ -86,3 +87,15 @@ Commands                             | Description
 `git status`                         | Mostra as alterações commitadas
 `git restore --staged meuarquivo.txt`|
 `git status`                         | Mostra que o arquivo foi removido
+~~~
+~~~Sem explicação
+## Processos sem explicação:
+
+    echo "# ProjetoGit" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/jonasmarquesdev/nomedorepositorio.git
+    git push -u origin main
+~~~
