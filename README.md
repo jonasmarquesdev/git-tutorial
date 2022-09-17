@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94d355&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p style="color:#94d355" align="center" >Espero ajudar todos os iniciantes em git com esse pequeno glossário.</p>
+<p align="center" >Espero ajudar todos os iniciantes em git com esse pequeno glossário.</p>
 
 ## Explicando cada processo dos comandos git para criar um repositorio:
 
