@@ -114,7 +114,7 @@ Commands                                         | Description
 Commands                             | Description
 -------------------------------------|----------------------------------
 `git status`                         | mostra as alterações commitadas
-`git restore --staged meuarquivo.txt`| remove o arquivo especificada
+`git restore --staged meuarquivo.txt`| remove o arquivo especificado
 `git status`                         | mostra que o arquivo foi removido
 
 ## Processos sem explicação:
