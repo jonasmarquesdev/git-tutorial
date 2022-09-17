@@ -61,8 +61,8 @@ Commands                                                 | Description
     Caso você e seu colega queiram levantar um projeto utilizando o mesmo repositório
     Vocês teram que seguir os seguintes passos:
     1 - A Pessoa que quer dar o acesso de colaborador terá que acessar as configurações do repositório
-    2 - Depois acessar Collaborators/Colaboradores logo em seguida add people/adicionar pessoas
-    3 - Pesquisa pelo nome de User do seu colega e adiciona ele e pronto você estará apto a seguir esse passos
+    2 - Depois acessar (Collaborators/Colaboradores) logo em seguida (add people/adicionar pessoas)
+    3 - Pesquisa pelo nome de User do seu colega e adiciona ele e pronto você estará apto a seguir esses passos
     Para contribuir ao repositório
 
 Commands                                                 | Description
