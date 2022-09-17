@@ -1,4 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94d355&height=120&section=header"/>
+
 # Lista de processos do git
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94d355&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<p style="color:#94d355" align="center" >Espero ajudar todos os iniciantes em git com esse pequeno glossário.</p>
 
 ## Explicando cada processo dos comandos git para criar um repositorio:
 
@@ -47,16 +53,6 @@ Commands              | Description
 `git merge novo-botao`| juntando com outra branch
 `git push orgin main` | empurrando as alterações no repositorio remoto/github
 
-## Processos sem explicação:
-
-    echo "# ProjetoGit" >> README.md
-    git init
-    git add README.md
-    git commit -m "first commit"
-    git branch -M main
-    git remote add origin https://github.com/jonasmarquesdev/nomedorepositorio.git
-    git push -u origin main
-
 ## Revertando burrada com commit:
 
 Commands                          | Description
@@ -86,3 +82,15 @@ Commands                             | Description
 `git status`                         | mostra as alterações commitadas
 `git restore --staged meuarquivo.txt`| remove o arquivo especificada
 `git status`                         | mostra que o arquivo foi removido
+
+## Processos sem explicação:
+
+    echo "# ProjetoGit" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/seuUserName/nomeDoRepositorio.git
+    git push -u origin main
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94d355&height=120&section=footer"/>
