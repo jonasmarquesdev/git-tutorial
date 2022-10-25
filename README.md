@@ -79,6 +79,13 @@ Commands                                                 | Description
 ---------------------------------------------------------|--------------------------------------
 `git pull`                                               | usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais
 
+## Adicionando e mostrando as alterações no arquivo
+
+Commands               | Description
+-----------------------|-------------------------
+`git add nomeDoArquivo`| adiciona alterações
+`git diff`             | mostra as alterações
+
 ## Juntando ramificações/branch:
 
 Commands              | Description
